@@ -1,0 +1,1 @@
+print('bao dep trai khoai to')
